@@ -1,7 +1,7 @@
 # Ubuntu + Windows Dual Boot Best Practice
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/char7ez/ubuntu-windows-dual-boot-guide.svg)](https://github.com/char7ez/ubuntu-windows-dual-boot-guide/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/charZZH/ubuntu-windows-dual-boot-guide.svg)](https://github.com/charZZH/ubuntu-windows-dual-boot-guide/stargazers)
 
 [← Back to Home](README.md) | [中文版本](README-zh.md)
 
