@@ -1,7 +1,7 @@
 # Ubuntu + Windows 双系统安装最佳实践
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/char7ez/ubuntu-windows-dual-boot-guide.svg)](https://github.com/char7ez/ubuntu-windows-dual-boot-guide/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/charZZH/ubuntu-windows-dual-boot-guide.svg)](https://github.com/charZZH/ubuntu-windows-dual-boot-guide/stargazers)
 
 [← 返回主页](README.md) | [English Version](README-en.md)
 
